@@ -1,0 +1,37 @@
+body{
+    
+    background-color: #f4f4f4;
+   
+}
+button { 
+    background-color:brown;
+    padding: 1px;
+    margin-top: 1px;
+    width:80px ;
+    height: 50px;
+    border:1px solid black;
+    border-radius: 4px; 
+    color:white; 
+    font-size: 20px;
+    cursor: pointer;
+    }
+#calculator{
+    width: 60%;
+    height: 80%;
+    background: white;
+    padding: 5px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+button:hover {
+    color: black;
+    background-color:burlywood;
+}
+input{
+    color: black;
+    width: 305px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+}
